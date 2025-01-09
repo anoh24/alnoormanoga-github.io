@@ -1,1 +1,2 @@
-This is just a porfolio website dont take it seriously 
+This is just a static portfolio website, just to showcase my previous projects
+
